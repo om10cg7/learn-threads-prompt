@@ -1,6 +1,6 @@
 # learn-threads-prompt
 
-Threads で見つけた AI 画像・動画プロンプトの要約ノート集。
+Threads（および一部 Instagram）で見つけた AI 画像・動画プロンプトの要約ノート集。
 各ノートに「要約」「プロンプト」「元ネタURL」を記録する。
 
 画像付きの一覧は [index.html](index.html)（GitHub 上ではファイルを開くとソース表示になるため、ブラウザで見たい場合はダウンロードして開く）。
@@ -15,3 +15,4 @@ Threads で見つけた AI 画像・動画プロンプトの要約ノート集�
 | 4 | ファーコートのグラマーポートレート | @reactor_art | [notes/04-reactor-fur-coat-portrait.md](notes/04-reactor-fur-coat-portrait.md) |
 | 5 | 夕日のベンチ（Meta vs Gemini 比較） | ARIF N STUDIOS @arifnuryono87 | [notes/05-arif-bench-meta-vs-gemini.md](notes/05-arif-bench-meta-vs-gemini.md) |
 | 6 | マクロ・ビューティーポートレート | Gülben @gulbens.blog | [notes/06-gulben-macro-beauty.md](notes/06-gulben-macro-beauty.md) |
+| 7 | Instant 8K アップスケール（Nano Banana Prompt）※Instagram | Rose @rosedoesai | [notes/07-rosedoesai-8k-upscale-prompt.md](notes/07-rosedoesai-8k-upscale-prompt.md) |
